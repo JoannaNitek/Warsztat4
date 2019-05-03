@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5962097-916a-400e-91fe-d2eb7f2684a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Biblio/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biblio/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biblio/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Warsztat4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Warsztat4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biblio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Biblio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biblio/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Biblio/js/app.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Biblio/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="432">
+              <caret line="39" column="67" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Biblio/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="780">
+              <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#!!top" expanded="true" />
               </folding>
@@ -53,12 +55,12 @@
       <list>
         <option value="$PROJECT_DIR$/Biblio/.gitignore" />
         <option value="$PROJECT_DIR$/Biblio/app.js" />
-        <option value="$PROJECT_DIR$/Biblio/js/app.js" />
         <option value="$PROJECT_DIR$/Biblio/index.html" />
+        <option value="$PROJECT_DIR$/Biblio/js/app.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="927" />
@@ -96,6 +98,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../WAR_PYT_S_14_REST_Server" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -140,18 +143,20 @@
       <updated>1556629244393</updated>
       <workItem from="1556629245778" duration="34000" />
       <workItem from="1556629301961" duration="4813000" />
-      <workItem from="1556634371763" duration="1070000" />
+      <workItem from="1556634371763" duration="1315000" />
+      <workItem from="1556712173582" duration="595000" />
+      <workItem from="1556904986884" duration="7317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5917000" />
+    <option name="totallyTimeSpent" value="14074000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="67" y="25" width="927" height="1055" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1294964" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14982975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -165,7 +170,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286638" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.10583153" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -185,20 +190,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Biblio/js/app.js">
+    <entry file="file://$PROJECT_DIR$/Biblio/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="432">
+          <caret line="39" column="67" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Biblio/index.html">
+    <entry file="file://$PROJECT_DIR$/Biblio/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="780">
+          <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
